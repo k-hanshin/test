@@ -1,0 +1,18 @@
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    line-height: 200px;
+    text-align: center;
+    margin: 30px auto 0;
+    font-size: x-large;
+    color: #FFFFFF;
+  }
+  .btn:hover{
+    opacity: 0.7;
+  }
+  .btn:active{
+    box-shadow: 0.5px 0 red;
+    margin-top: 35px;
+  }
